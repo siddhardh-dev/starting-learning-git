@@ -3,3 +3,6 @@ Git is a distributed version control system designed to handle everything from s
 It enable developers to track changes in source
 Git records history of changes, allowing you to revert to previous states.
 each commit in git represents a recorded state of the project.
+
+Git supports the use of remote repositories hosted on services such as github,gitlab.
+integrating git with platforms that support pull requests and code review enhances code quality.
