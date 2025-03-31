@@ -1,1 +1,5 @@
 what is git?
+Git is a distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+It enable developers to track changes in source
+Git records history of changes, allowing you to revert to previous states.
+each commit in git represents a recorded state of the project.
