@@ -6,3 +6,6 @@ each commit in git represents a recorded state of the project.
 
 Git supports the use of remote repositories hosted on services such as github,gitlab.
 integrating git with platforms that support pull requests and code review enhances code quality.
+
+many development teams integrate git with project management tools to streamline issue tracking
+Git is a powerful tool that revolutionizes how projects are managed and collaborated on.
